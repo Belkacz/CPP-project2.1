@@ -1,11 +1,11 @@
 # CPP-project2.1
 
-#[Preview](https://www.online-cpp.com/t1Fmr9WgQk)
+# [Preview](https://www.online-cpp.com/t1Fmr9WgQk)
 ```
 https://www.online-cpp.com/t1Fmr9WgQk
 ```
 
-###About 
+### About 
 
 The program is used to store rainfall amounts for each month.
 
